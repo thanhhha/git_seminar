@@ -7,3 +7,7 @@
 4. https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/version-control/
 
 5. https://backlog.com/git-tutorial/vn/
+
+6. Git là gì – Những khái niệm cơ bản khi làm việc trên Git - https://csc.edu.vn/
+
+7. Git Cheat Sheet - https://training.github.com/downloads/github-git-cheat-sheet.pdf
